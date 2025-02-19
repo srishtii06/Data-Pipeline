@@ -1,0 +1,17 @@
+*.json
+venv
+__pycache__
+*/__pycache__/
+temp
+processed_dir
+Extra
+SampleData
+*.log
+
+
+
+.cache/
+RedisUtils/data/dump.rdb
+data/
+dump.rdb
+*rdb
